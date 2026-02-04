@@ -13,7 +13,7 @@ I watched the introduction and lecture video of CP3402 in LearnJCU. I revised CP
 I spent around 7 hours learning.
 
 ## Content Insights
-Revising HTML and CSS helped me remember a lot of my old habits with website building. I also managed to change a couple of these through the LinkedIn video i watched. One notable experience was when I realised that the \<section> tag was used for chapters or news items (not just any random section of the webpage - which I used to think). I only looked at a little bit of JavaScript such as making a container disappear by pressing a button, and validating an input form. However, I felt this was sufficient in terms of what was learnt in CP1406. 
+Revising HTML and CSS helped me remember a lot of my old habits with website building. I also managed to change a couple of these through the LinkedIn video i watched. One notable experience was when I realised that the \<section> tag was used for chapters or news items (not just any random section of the webpage - which I used to think).
 
 ## Career/Employability/Learning Insights
 In this week's practical, I knew it would be pretty easy to make a basic website, as I had done it only last year in CP1406. Since I'm only a second year, I found 
@@ -26,4 +26,3 @@ I did the small revision quiz to refresh on CP1406 content. This helped me a bit
 The videos and CP1406 PowerPoint provided a good start for me to revise, but I found just writing my prac 1 website code was very beneficial to my revision. Given that I was worried in the beginning about doing my own research, I'm now finding it to be okay. I've been looking at documentation and following instructions well in my opinion. Furthermore, after utilising GitHub Pages to host my website, I felt more confident with GitHub, and now knew how to host any website on this platform.
 
 From the LinkedIn video, I learnt that there are many jobs in web development - both code and no-code work. I definitely like making websites with coding, so this would be a potential job I'm interested in pursuing. As discussed earlier, I feel like I'm still transitioning from the lecture -> seminar -> practical pattern of learning. Whilst it is still similar, it seems there is a lot more learning involved. With the pattern being like so now: lecture -> LinkedIn video -> other research -> seminar -> practical, it definitely has felt like a lot of work, not even considering my other subjects. However, I think I will be able to manage my time better next week.
-

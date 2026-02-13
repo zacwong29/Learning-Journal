@@ -36,6 +36,8 @@ I have found that using templates/patterns in WordPress is very useful for effic
 
 Considering my interview results above, I would consider any of these classmates as good team members. However, they all have differing days of availability, which may make it difficult to have a meeting if all of us were in a group together. We all share the same grade goal of HD and all seem to be okay with either online or in-person meetings.
 
+Furthermore, I learnt some better questions from other classmates' interviews such as asking about strengths/weaknesses or team roles. I would definitely consider these now and when I do other group projects.
+
 ## Career/Employability/Learning Insights
 For the first two weeks, I had been writing handwritten notes from the lecture video and LinkedIn Learning videos. The lecture video was manageable, but the LinkedIn learning videos were very long, and writing notes just added to that length. For this week, I tried writing notes in a Word document, which was quicker and did not drain my motivation as much.
 

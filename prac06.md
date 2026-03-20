@@ -1,4 +1,4 @@
-# Week 1
+# Week 6
 
 ## Learning Activities & Resources
 I watched the seminar recording and learnt about teamwork. I then watched the 'stand-up meeting' LinkedIn Learning video. 
